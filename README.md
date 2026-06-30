@@ -23,16 +23,6 @@ It was built as a hands-on complement to the TryHackMe SOC Level 1 path, focused
 - **Packet Inspector & Statistics views** for deeper traffic analysis
 - **Custom Rule Manager** — define new detection rules without touching code
 
-## Screenshots
-
-**Overview — Idle state**
-![Overview Idle](docs/screenshots/overview_idle.png)
-
-**Overview — Live analysis (98% detection accuracy, 62 alerts fired)**
-![Overview Analyzing](docs/screenshots/overview_analyzing.png)
-
-**Alerts — Filterable alert log with MITRE ATT&CK mapping**
-![Alerts Log](docs/screenshots/alerts_log.png)
 
 ## Architecture
 
